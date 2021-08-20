@@ -1,0 +1,21 @@
+https://www.naftaliharris.com/blog/visualizing-k-means-clustering/#:~:text=The%20k%2Dmeans%20algorithm%20captures,the%20center%20of%20that%20cluster.&text=In%20the%20above%20visualization%2C%20the,which%20they%20have%20been%20assigned
+
+
+K means clustering visualization blog (seniors)
+
+
+
+https://blog.paperspace.com/speed-up-kmeans-numpy-vectorization-broadcasting-profiling/
+
+K means apply (nilesh)
+
+
+
+https://realpython.com/numpy-array-programming/
+(numpy imp concept)
+
+
+
+https://www.geeksforgeeks.org/image-compression-using-k-means-clustering/
+(image compression by K MEANS) (nilesh)
+
